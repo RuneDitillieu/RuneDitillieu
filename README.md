@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, I'm Rune!  I'm a third year Game Development student at Digital Arts and Entertainment, in Howest University of Applied Sciences.
+Hello, I'm Rune!  I'm a third year Game Development student at Digital Arts and Entertainment, Howest University of Applied Sciences.
 
 <br />
  
@@ -53,3 +53,7 @@ Programming Languages:
 Game Engines:
 - Unity 6
 - Unreal Engine 5
+
+Version Control:
+- Github
+- Perforce

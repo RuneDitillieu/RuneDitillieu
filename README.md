@@ -12,7 +12,7 @@ Hello, I'm Rune!  I'm a third year Game Development student at Digital Arts and 
 <br />
 <img src="https://github.com/RuneDitillieu/WaveFunctionCollapse/raw/main/ReadmeImages/ExampleResult.png" alt="WaveFunctionCollapse" height=300>
 
-A small Raylib project on the Simple Tiled Model of the Wave Function Collapse algorithm.
+A small C++ Raylib project on the Simple Tiled Model of the Wave Function Collapse algorithm.
 
 <br />
   
@@ -20,7 +20,7 @@ A small Raylib project on the Simple Tiled Model of the Wave Function Collapse a
 <br />
 <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Qbert.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" alt="QBert" height=400>
 
-A recreation of the Q*Bert arcade game in a custom engine built upon SDL 3.
+A recreation of the Q*Bert arcade game in a custom C++ engine built upon SDL 3.
 
 <br />
 
@@ -30,7 +30,7 @@ A recreation of the Q*Bert arcade game in a custom engine built upon SDL 3.
 <br />
 <img src="https://img.itch.zone/aW1nLzI3NDc4OTk2LnBuZw==/original/YDcs0P.png" alt="123Gnome" height=200>
 
-A six person group project over the course of a semester.  
+A six person group project over the course of a semester, made in Unity.  
 It's a couch-coop racing game, where you race as gnomes through the yard of an angry gardener, evading obstacles and grabbing power-ups to be the first to reach the finish line.
 
 <br />
@@ -39,7 +39,7 @@ It's a couch-coop racing game, where you race as gnomes through the yard of an a
 <br />
 <img src="https://img.itch.zone/aW1nLzI2NDcwNjUyLmpwZw==/347x500/T2LghW.jpg" alt="Buzz Off" height=200>
 
-Made for a six person, three day game jam. 
+Made for a six person, three day game jam. Created with Unity.
 A couch-coop where you and your friends are having a sleep-over, but a pesky mosquito is depriving everyone of their deeply needed sleep. A race against time to get rid of the mosquito before the sun rises and any chance of getting any sleep dissapears.
 
 <br />
